@@ -7,7 +7,7 @@ const Winter = () => {
         className="absolute inset-0 h-full w-full object-cover"
         type="video/mp4"
         preload="auto"
-        src="/videos/winter-preview.mp4.mov"
+        src="/videos/aerial-close-up-golden-sun-shining-trough-snowy-spruce-trees-at-winter-sunrise-SBV-318026679-preview.mp4"
         autoPlay
         loop
         muted
