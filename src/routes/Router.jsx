@@ -4,7 +4,7 @@ import Winter from "../pages/Winter";
 import Spring from "../pages/Spring";
 import Summer from "../pages/Summer";
 import Autumn from "../pages/Autumn";
-import Home from "../pages/home";
+import Home from "../pages/Home";
 import { useLocation } from "react-router";
 import SeasonCard from "../components/SeasonCard";
 
