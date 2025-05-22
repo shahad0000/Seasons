@@ -6,6 +6,7 @@ const Summer = () => {
       <video
         className="absolute inset-0 h-full w-full object-cover"
         type="video/mp4" 
+        preload="auto"
         src="/videos/mountain-hill-silhouette-at-evening-coastline-summer-beach-landscape-sunset-su-SBV-346709373-preview.mp4"
         autoPlay
         loop

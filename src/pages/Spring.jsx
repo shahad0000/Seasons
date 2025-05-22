@@ -6,6 +6,7 @@ const Spring = () => {
       <video
         className="absolute inset-0 h-full w-full object-cover"
         type="video/mp4" 
+        preload="auto"
         src="/videos/stream-running-fast-in-summer-green-forest-small-waterfall-with-crystal-clear--SBV-352115279-preview.mp4"
         autoPlay
         loop

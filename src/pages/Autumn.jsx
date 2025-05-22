@@ -6,6 +6,7 @@ const Autumn = () => {
       <video
         className="absolute inset-0 h-full w-full object-cover"
         type="video/mp4" 
+        preload="auto"
         src="/videos/flight-along-a-path-in-a-scenic-autumn-forest-SBV-318519680-preview.mp4"
         autoPlay
         loop
