@@ -5,7 +5,8 @@ const Spring = () => {
     <div className="relative h-screen w-full overflow-hidden z-[-1]">
       <video
         className="absolute inset-0 h-full w-full object-cover"
-        src="src/assets/stream-running-fast-in-summer-green-forest-small-waterfall-with-crystal-clear--SBV-352115279-preview.mp4"
+        type="video/mp4" 
+        src="/videos/stream-running-fast-in-summer-green-forest-small-waterfall-with-crystal-clear--SBV-352115279-preview.mp4"
         autoPlay
         loop
         muted

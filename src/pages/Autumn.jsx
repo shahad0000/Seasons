@@ -5,7 +5,8 @@ const Autumn = () => {
     <div className="relative h-screen w-full overflow-hidden z-[-1]">
       <video
         className="absolute inset-0 h-full w-full object-cover"
-        src="src/assets/flight-along-a-path-in-a-scenic-autumn-forest-SBV-318519680-preview.mp4"
+        type="video/mp4" 
+        src="/videos/flight-along-a-path-in-a-scenic-autumn-forest-SBV-318519680-preview.mp4"
         autoPlay
         loop
         muted

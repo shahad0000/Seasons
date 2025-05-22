@@ -5,7 +5,8 @@ const Summer = () => {
     <div className="relative h-screen w-full overflow-hidden z-[-1]">
       <video
         className="absolute inset-0 h-full w-full object-cover"
-        src="src/assets/mountain-hill-silhouette-at-evening-coastline-summer-beach-landscape-sunset-su-SBV-346709373-preview.mp4"
+        type="video/mp4" 
+        src="/videos/mountain-hill-silhouette-at-evening-coastline-summer-beach-landscape-sunset-su-SBV-346709373-preview.mp4"
         autoPlay
         loop
         muted

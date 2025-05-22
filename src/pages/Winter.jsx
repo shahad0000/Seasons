@@ -5,7 +5,8 @@ const Winter = () => {
     <div className="relative h-screen w-full overflow-hidden z-[-1]">
       <video
         className="absolute inset-0 h-full w-full object-cover"
-        src="src/assets/aerial-close-up-golden-sun-shining-trough-snowy-spruce-trees-at-winter-sunrise-SBV-318026679-preview.mp4"
+        type="video/mp4" 
+        src="/videos/aerial-close-up-golden-sun-shining-trough-snowy-spruce-trees-at-winter-sunrise-SBV-318026679-preview.mp4"
         autoPlay
         loop
         muted
