@@ -4,9 +4,9 @@ import Winter from "../pages/Winter";
 import Spring from "../pages/Spring";
 import Summer from "../pages/Summer";
 import Autumn from "../pages/Autumn";
-import SeasonCard from "../components/seasonCard";
 import Home from "../pages/home";
 import { useLocation } from "react-router";
+import SeasonCard from "../components/SeasonCard";
 
 const cards = [
   { season: "/", img: "/imgs/homeIcon.png" },
